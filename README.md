@@ -13,8 +13,7 @@
        \ \__\    \ \__\\ \_______\\ \__\ \__\\ \_______\\ \__\                                  
         \|__|     \|__| \|_______| \|__|\|__| \|_______| \|__|                                  
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khalfoun-mehdi/)  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCURbkdMKJ_wkf_MS5wvZBSA) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@contact.khalfoun) [<img src="https://img.shields.io/badge/ai_newsletter-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://khalfounmehdi.substack.com/)
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khalfoun-mehdi/)  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCURbkdMKJ_wkf_MS5wvZBSA) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@contact.khalfoun) 
 <!--
 **KhalfounMehdi/KhalfounMehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
